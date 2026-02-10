@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Vimal Kumar
 
-<!--
-**vimalkumar865011/vimalkumar865011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Mathematics & Computing  
+🏫 DST-CIMS, BHU 
+🎓 BSc Mathematics – MJPRU Bareilly  
 
-Here are some ideas to get you started:
+## 🔬 Interests
+- Scientific Computing
+- Numerical Analysis
+- Numerical Linear Algebra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python, C, MATLAB  
+- NumPy, SciPy, Matplotlib  
+- LaTeX, Git, GitHub  
+
+## 📘 Coursework
+- Scientific Computing using Python (NPTEL – IIT Delhi)
+
+📫 Email: vimalkumar865011@gmail.com
